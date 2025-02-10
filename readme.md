@@ -63,3 +63,4 @@ Inclusion of More Features, such as:
 2. **Insights Module**: To explain how individual features (e.g., built-up area, furnishing type, sector) impact property prices.
 3. **Enhanced Machine Learning Models** : Incorporate state-of-the-art algorithms like XGBoost, LightGBM, and CatBoost for superior prediction accuracy.
 4. **Hyperparameter Optimization:** Utilizes HyperOptuna to fine-tune models for maximum efficiency.
+5. Scrap dataset for more cities like Delhi, Bangalore, Kolkata, Hyderabad, Mumbai, Pune, etc.
